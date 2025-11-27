@@ -2,10 +2,6 @@
 # 🎓 From Scores to Seats: The Grad School ML Challenge
 ### 🥉 Second Runner-Up (3rd Place) Solution
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Library](https://img.shields.io/badge/LightGBM-DART-orange)
-![Tools](https://img.shields.io/badge/Tools-LazyPredict-purple)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository contains the source code for my 3rd place solution to the **Hackade - From Scores to Seats** challenge. The goal was to predict graduate school admission probability based on academic profiles.
 
